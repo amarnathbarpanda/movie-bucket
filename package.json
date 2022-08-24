@@ -1,5 +1,6 @@
 {
   "name": "movies-bucket",
+  "homepage": "https://amarnathbarpanda.github.io/movie-bucket",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
