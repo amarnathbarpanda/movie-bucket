@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/movie-bucket/static/css/main.dd50b0b8.css",
+    "main.js": "/movie-bucket/static/js/main.5780edac.js",
+    "index.html": "/movie-bucket/index.html",
+    "static/media/search.svg": "/movie-bucket/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.dd50b0b8.css.map": "/movie-bucket/static/css/main.dd50b0b8.css.map",
+    "main.5780edac.js.map": "/movie-bucket/static/js/main.5780edac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd50b0b8.css",
+    "static/js/main.5780edac.js"
+  ]
+}
